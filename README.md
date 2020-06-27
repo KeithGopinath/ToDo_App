@@ -1,4 +1,7 @@
 # ToDo_Ap
 Small project for add, edit and delete the text
+
 To run the Project 
-Edit _babelrc & _eslintrc file to .babelrc & .eslintrc 
+1 npm install
+2 Edit _babelrc & _eslintrc file to .babelrc & .eslintrc 
+3 npm start
